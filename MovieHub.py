@@ -7,7 +7,6 @@ import random
 
 
 # Gabriel Colonna
-# CAP4104
 
 st.set_page_config(
     page_title= "The Movie Hub",
